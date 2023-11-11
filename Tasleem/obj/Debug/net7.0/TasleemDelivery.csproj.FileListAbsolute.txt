@@ -1,0 +1,565 @@
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\appsettings.Development.json
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\appsettings.json
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.exe
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.deps.json
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.runtimeconfig.json
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.pdb
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Azure.Core.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Azure.Identity.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Humanizer.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\System.CodeDom.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.Data.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.DTO.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.Models.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.Data.pdb
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.DTO.pdb
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.Models.pdb
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.AssemblyReference.cache
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\TasleemDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\TasleemDelivery.AssemblyInfoInputs.cache
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\TasleemDelivery.AssemblyInfo.cs
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.CoreCompileInputs.cache
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\TasleemDelivery.MvcApplicationPartsAssemblyInfo.cache
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.TasleemDelivery.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.build.TasleemDelivery.props
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TasleemDelivery.props
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TasleemDelivery.props
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\staticwebassets.build.json
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\staticwebassets.development.json
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\scopedcss\bundle\TasleemDelivery.styles.css
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.CopyComplete
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\TasleemDelivery.dll
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\refint\TasleemDelivery.dll
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\TasleemDelivery.pdb
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\TasleemDelivery.genruntimeconfig.cache
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\ref\TasleemDelivery.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Autofac.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\AutoMapper.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.Profiles.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.Repository.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.Service.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.Profiles.pdb
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.Service.pdb
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.Repository.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\appsettings.Development.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\appsettings.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.exe
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.deps.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.runtimeconfig.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Autofac.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\AutoMapper.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Azure.Core.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Azure.Identity.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Humanizer.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\System.CodeDom.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\System.Memory.Data.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.Data.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.DTO.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.Models.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.Profiles.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.Repository.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.Service.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.Data.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.DTO.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.Profiles.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.Service.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.Models.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.Repository.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.AssemblyReference.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\TasleemDelivery.GeneratedMSBuildEditorConfig.editorconfig
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\TasleemDelivery.AssemblyInfoInputs.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\TasleemDelivery.AssemblyInfo.cs
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.CoreCompileInputs.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\TasleemDelivery.MvcApplicationPartsAssemblyInfo.cs
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\TasleemDelivery.MvcApplicationPartsAssemblyInfo.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.TasleemDelivery.Microsoft.AspNetCore.StaticWebAssets.props
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.build.TasleemDelivery.props
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TasleemDelivery.props
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TasleemDelivery.props
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\staticwebassets.pack.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\staticwebassets.build.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\staticwebassets.development.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\scopedcss\bundle\TasleemDelivery.styles.css
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.CopyComplete
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\TasleemDelivery.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\refint\TasleemDelivery.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\TasleemDelivery.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\TasleemDelivery.genruntimeconfig.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\obj\Debug\net7.0\ref\TasleemDelivery.dll
+D:\Freelance-Jobs\New API\Tasleem\obj\Debug\net7.0\TasleemDelivery.MvcApplicationPartsAssemblyInfo.cs
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.Validation.dll
+D:\Freelance-Jobs\New API\Tasleem\bin\Debug\net7.0\TasleemDelivery.Validation.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.Validation.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\TasleemDelivery.Validation.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\PayPal.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\appsettings.Development.json
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\appsettings.json
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.exe
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.deps.json
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.runtimeconfig.json
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.pdb
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Autofac.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\AutoMapper.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Azure.Core.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Azure.Identity.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Humanizer.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\PayPal.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\System.CodeDom.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.Data.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.DTO.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.Models.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.Profiles.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.Repository.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.Service.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.Validation.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.Data.pdb
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.DTO.pdb
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.Profiles.pdb
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.Service.pdb
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.Models.pdb
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.Repository.pdb
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\TasleemDelivery.Validation.pdb
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.AssemblyReference.cache
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\TasleemDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\TasleemDelivery.AssemblyInfoInputs.cache
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\TasleemDelivery.AssemblyInfo.cs
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.CoreCompileInputs.cache
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\TasleemDelivery.MvcApplicationPartsAssemblyInfo.cs
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\TasleemDelivery.MvcApplicationPartsAssemblyInfo.cache
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.TasleemDelivery.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.build.TasleemDelivery.props
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TasleemDelivery.props
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TasleemDelivery.props
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\staticwebassets.build.json
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\staticwebassets.development.json
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\scopedcss\bundle\TasleemDelivery.styles.css
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.CopyComplete
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\TasleemDelivery.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\refint\TasleemDelivery.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\TasleemDelivery.pdb
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\TasleemDelivery.genruntimeconfig.cache
+D:\Freelance-Jobs\New API Awy\Tasleem\obj\Debug\net7.0\ref\TasleemDelivery.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.Owin.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.Owin.Host.SystemWeb.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\Tasleem\bin\Debug\net7.0\Owin.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.Owin.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.Owin.Host.SystemWeb.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Owin.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Google.Api.CommonProtos.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\System.Web.Http.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\System.Web.Http.Owin.dll
+D:\Freelance-Jobs\New API Awy\Tasleem\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\appsettings.Development.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\appsettings.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.exe
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.deps.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.runtimeconfig.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Autofac.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\AutoMapper.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Azure.Core.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Azure.Identity.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Google.Api.CommonProtos.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Google.Protobuf.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Humanizer.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Web.Http.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Web.Http.Owin.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Owin.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Owin.Host.SystemWeb.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Owin.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\PayPal.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\System.CodeDom.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Memory.Data.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Data.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.DTO.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Models.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Profiles.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Repository.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Service.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Validation.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Data.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.DTO.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Profiles.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Service.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Models.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Repository.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Validation.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.AssemblyReference.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.GeneratedMSBuildEditorConfig.editorconfig
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.AssemblyInfoInputs.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.AssemblyInfo.cs
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.CoreCompileInputs.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.MvcApplicationPartsAssemblyInfo.cs
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.MvcApplicationPartsAssemblyInfo.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.TasleemDelivery.Microsoft.AspNetCore.StaticWebAssets.props
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.build.TasleemDelivery.props
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TasleemDelivery.props
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TasleemDelivery.props
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets.pack.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets.build.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets.development.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\scopedcss\bundle\TasleemDelivery.styles.css
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.CopyComplete
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\refint\TasleemDelivery.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.genruntimeconfig.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\Tasleem\obj\Debug\net7.0\ref\TasleemDelivery.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\appsettings.Development.json
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\appsettings.json
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.exe
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.deps.json
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.runtimeconfig.json
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.pdb
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Autofac.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\AutoMapper.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Azure.Core.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Azure.Identity.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Google.Api.CommonProtos.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Humanizer.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Web.Http.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Web.Http.Owin.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Owin.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Owin.Host.SystemWeb.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Owin.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\PayPal.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\System.CodeDom.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Data.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.DTO.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Models.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Profiles.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Repository.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Service.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Validation.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Data.pdb
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.DTO.pdb
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Profiles.pdb
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Service.pdb
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Models.pdb
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Repository.pdb
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\bin\Debug\net7.0\TasleemDelivery.Validation.pdb
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.AssemblyReference.cache
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.GeneratedMSBuildEditorConfig.editorconfig
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.AssemblyInfoInputs.cache
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.AssemblyInfo.cs
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.CoreCompileInputs.cache
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.MvcApplicationPartsAssemblyInfo.cs
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.MvcApplicationPartsAssemblyInfo.cache
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.TasleemDelivery.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.build.TasleemDelivery.props
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TasleemDelivery.props
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TasleemDelivery.props
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets.build.json
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\staticwebassets.development.json
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\scopedcss\bundle\TasleemDelivery.styles.css
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.csproj.CopyComplete
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\refint\TasleemDelivery.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.pdb
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\TasleemDelivery.genruntimeconfig.cache
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\Tasleem\obj\Debug\net7.0\ref\TasleemDelivery.dll

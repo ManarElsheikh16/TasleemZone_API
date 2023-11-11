@@ -1,0 +1,102 @@
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.AssemblyReference.cache
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.AssemblyInfoInputs.cache
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.AssemblyInfo.cs
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.CoreCompileInputs.cache
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.deps.json
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.runtimeconfig.json
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.dll
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.pdb
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Models.dll
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Models.pdb
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.CopyComplete
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.dll
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\obj\Debug\net6.0\refint\TasleemDelivery.Data.dll
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.pdb
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.genruntimeconfig.cache
+F:\FreeLancing Jobs\Zone\Tasleem\TasleemDelivery.Data\obj\Debug\net6.0\ref\TasleemDelivery.Data.dll
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.deps.json
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.runtimeconfig.json
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.dll
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.pdb
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Models.dll
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Models.pdb
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.AssemblyReference.cache
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.AssemblyInfoInputs.cache
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.AssemblyInfo.cs
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.CoreCompileInputs.cache
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.CopyComplete
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.dll
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\obj\Debug\net6.0\refint\TasleemDelivery.Data.dll
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.pdb
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.genruntimeconfig.cache
+D:\Freelance-Jobs\New API\TasleemDelivery.Data\obj\Debug\net6.0\ref\TasleemDelivery.Data.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.deps.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.runtimeconfig.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Models.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Models.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.AssemblyReference.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.AssemblyInfoInputs.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.AssemblyInfo.cs
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.CoreCompileInputs.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.CopyComplete
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\obj\Debug\net6.0\refint\TasleemDelivery.Data.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.genruntimeconfig.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\DeliveryTasleemZone\TasleemDelivery.Data\obj\Debug\net6.0\ref\TasleemDelivery.Data.dll
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.deps.json
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.runtimeconfig.json
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.dll
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.pdb
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Models.dll
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Models.pdb
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.AssemblyReference.cache
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.AssemblyInfoInputs.cache
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.AssemblyInfo.cs
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.CoreCompileInputs.cache
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.CopyComplete
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.dll
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\obj\Debug\net6.0\refint\TasleemDelivery.Data.dll
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.pdb
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.genruntimeconfig.cache
+D:\Freelance-Jobs\New API Awy\TasleemDelivery.Data\obj\Debug\net6.0\ref\TasleemDelivery.Data.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.deps.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.runtimeconfig.json
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Models.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Models.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.AssemblyReference.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.AssemblyInfoInputs.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.AssemblyInfo.cs
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.CoreCompileInputs.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.CopyComplete
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\refint\TasleemDelivery.Data.dll
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.pdb
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.genruntimeconfig.cache
+F:\FreeLancing Jobs\Zone\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\ref\TasleemDelivery.Data.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.deps.json
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.runtimeconfig.json
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Data.pdb
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Models.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\bin\Debug\net6.0\TasleemDelivery.Models.pdb
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.AssemblyReference.cache
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.AssemblyInfoInputs.cache
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.AssemblyInfo.cs
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.CoreCompileInputs.cache
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.csproj.CopyComplete
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\refint\TasleemDelivery.Data.dll
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.pdb
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\TasleemDelivery.Data.genruntimeconfig.cache
+E:\Freelance-Jobs\API_2\TasleemAPI\TasleemAPI\TasleemDelivery.Data\obj\Debug\net6.0\ref\TasleemDelivery.Data.dll
